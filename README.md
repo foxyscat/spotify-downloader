@@ -13,11 +13,10 @@ A sleek and modern **Flutter** application that allows users to easily download 
 ## 🖥️ Screenshots
 
 ### Home Screen
-![App Screenshot 1](screenshots/ss1.jpg)
-
-### Playlist Download Screen
-![App Screenshot 2](screenshots/ss2.jpg)
-
+<p align="center">
+  <img src="screenshots/ss1.jpg" width="250" />
+  <img src="screenshots/ss2.jpg" width="250" />
+</p>
 ---
 
 ## 🚀 Getting Started
