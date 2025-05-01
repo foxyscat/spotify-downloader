@@ -10,8 +10,10 @@ A sleek and modern **Flutter** application that allows users to easily download 
 - 📱 **100% built with Flutter**  
 - 🌐 Communicates with an **external API** for song data  
 
+---
+
+<p align="center"> ## 🖥️ Screenshots</p>
 <p align="center">
-  ## 🖥️ Screenshots
   <img src="screenshots/ss1.jpg" width="250" />
   <img src="screenshots/ss2.jpg" width="250" />
 </p>
